@@ -1,6 +1,10 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
+2025年2月6日
+	- 现在卵只会在破裂时孵化
+	- 沙尘暴会穿透非玩家生物（仍然正常地造成伤害）。
+
 2025年1月16日
 	- 移动端现在加入了快捷换装。按住 X 键，您可以通过点击副槽位来切换配装。每个配装都使用其中的第一个花瓣作为图标。
 	- 在键盘上按住L+数字加载第一组配装，按住 K+数字 加载第二组配装。
